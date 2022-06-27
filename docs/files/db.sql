@@ -1,0 +1,6 @@
+CREATE TABLE Blogs (
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(255) NOT NULL,
+    content VARCHAR(255) NOT NULL,
+    created_at DATETIME
+)
