@@ -15,3 +15,6 @@ Basic PHP Blog v1
 6. Featured blogs system
 7. Read random blog system
 8. Listen \[audio\] to blog system
+9. Pagination blogs system
+10. Search blog system
+11. Filter blogs system
